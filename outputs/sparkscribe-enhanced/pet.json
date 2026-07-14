@@ -1,0 +1,7 @@
+{
+  "id": "sparkscribe",
+  "displayName": "Sparkscribe",
+  "description": "A small luminous maker companion for Codex skill-building and thoughtful toolcraft.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

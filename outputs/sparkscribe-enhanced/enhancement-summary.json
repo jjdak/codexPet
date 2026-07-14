@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "pet": "Sparkscribe",
+  "enhanced_rows": {
+    "idle": "quiet blink and internal idea-light pulse",
+    "waiting": "expectant pose, brief upright doze, and wake-up",
+    "running": "active work expressed through the integrated pencil-tail sketching motion",
+    "review": "thoughtful lean, narrowed focus, blink, and head tilt"
+  },
+  "additional_repair": "Regenerated look row 10 so the 270 cardinal is unmistakably screen-left and the left-side arc closes coherently into 000.",
+  "spriteVersionNumber": 2
+}

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "packageDirectory": ".codex/pets/sparkscribe",
+  "petManifest": "pet.json",
+  "spritesheet": "spritesheet.webp",
+  "validation": "validation-extended.json",
+  "contactSheet": "contact-sheet-extended.png",
+  "directionSheet": "look-directions.png",
+  "enhancementSummary": "enhancement-summary.json"
+}
